@@ -2,7 +2,7 @@
 
 =head1 NAME
 
-Archive::Unrar::Linux::CLIWrapper version 0.01 - Perl interface to
+Archive::Unrar::Linux::CLIWrapper version 0.02 - Perl interface to
 Alexander Roshal's UnRAR command line tool (Linux distribution)
 
 =head1 DESCRIPTION
