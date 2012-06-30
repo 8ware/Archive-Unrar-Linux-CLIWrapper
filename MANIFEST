@@ -1,0 +1,9 @@
+Changes
+lib/Archive/Unrar/Linux/CLIWrapper.pm
+Makefile.PL
+MANIFEST
+README.pod
+t/Archive-Unrar-CLI-Linux.t
+t/Requirements.t
+t/test-rar_-pass.rar
+t/test-rar_+pass.rar
