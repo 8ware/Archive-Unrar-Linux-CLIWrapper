@@ -1,0 +1,33 @@
+=pod
+
+=head1 NAME
+
+Archive::Unrar::Linux::CLIWrapper version 0.01 - Perl interface to
+Alexander Roshal's UnRAR command line tool (Linux distribution)
+
+=head1 DESCRIPTION
+
+see perldoc of Archive::Unrar::Linux::CLIWrapper for more information
+
+=head1 INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+=head1 DEPENDENCIES
+
+Only the linux-distribution of "unrar" have to be installed on a linux-OS.
+
+=head1 COPYRIGHT AND LICENCE
+
+Copyright (C) 2012 by 8ware
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself, either Perl version 5.14.2 or,
+at your option, any later version of Perl 5 you may have available.
+
+=cut
